@@ -37,8 +37,10 @@ body {
 }
 
 .attribution {
-  font-size: 11px;
-  text-align: center;
+  font-size: 12px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 .attribution a {
@@ -73,3 +75,4 @@ body {
     margin-top: 25%;
   }
 }
+
